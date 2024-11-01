@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         // fontSize; 20,
         fontSize:RFValue(22),
         color:'black',
-        marginTop: 8,
+        marginTop: 9,
         },
 });
 
